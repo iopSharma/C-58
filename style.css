@@ -1,0 +1,36 @@
+h1{
+    font-family: cursive;
+    
+}
+img{
+    width:150px;
+    height: 150px;
+    border-radius: 200px;
+}
+#p{
+    text-align: center;
+    background-image: linear-gradient(red,yellow);
+}
+#pk{
+    text-align:center;
+}
+#prak{
+    list-style-type:none;
+    cursor:pointer;
+    z-index:10;
+    position: absolute;
+    top:10px;
+    right:30px;
+}
+.ok:hover{
+    background-color: yellow;
+}
+.ok{
+    float:left;
+    color:blue;
+    font-family:cursive;
+    padding-top:5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom:5px;
+}
